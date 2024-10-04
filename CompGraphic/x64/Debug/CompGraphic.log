@@ -1,0 +1,72 @@
+﻿  MyForm.cpp
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(19,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(19,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(132,29): warning C4244: =: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(133,29): warning C4244: =: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(134,29): warning C4244: =: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(152,42): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(153,42): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(165,38): warning C4838: Преобразование из "_Ty" в "float" требует сужающего преобразования.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(165,38): warning C4244: инициализация: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(165,77): warning C4838: Преобразование из "_Ty" в "float" требует сужающего преобразования.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(165,77): warning C4244: инициализация: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(176,73): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(176,54): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\Matrix.h(176,35): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\MyForm.cpp(121,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\MyForm.cpp(152,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\MyForm.cpp(160,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\MyForm.cpp(369,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\MyForm.cpp(370,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\MyForm.cpp(371,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ryan\source\repos\CompGraphic\CompGraphic\MyForm.cpp(372,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CompGraphic.vcxproj -> C:\Users\Ryan\source\repos\CompGraphic\x64\Debug\CompGraphic.exe
